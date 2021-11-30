@@ -1,4 +1,6 @@
-# Landing Page desarrollada como práctica de diseño de interfaz web
+# Landing Page
+
+Web desarrollada como práctica de diseño de interfaz web
 
 ## Live Demo
 
